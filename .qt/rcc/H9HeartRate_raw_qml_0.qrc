@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/H9HeartRate/">
-    <file alias="qml/Main.qml">/home/alberto/proyectos/H9HeartRate2/qml/Main.qml</file>
-  </qresource>
-</RCC>
-

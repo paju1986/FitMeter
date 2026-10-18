@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/H9HeartRate">
-    <file alias="qmldir">/home/alberto/proyectos/H9HeartRate2/qmldir</file>
-  </qresource>
-</RCC>
-
