@@ -1,0 +1,8 @@
+"[Desktop Entry]
+Type=Application
+Name=H9 Heart Rate
+Comment=Monitor your Polar H9 Heart Rate
+Exec=h9-heartrate
+Icon=app_icon
+Categories=Utility;Health;
+Terminal=false"

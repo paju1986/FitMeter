@@ -1,0 +1,14 @@
+-rootPath
+/home/alberto/proyectos/H9HeartRate2
+-cmake-output
+-output-file
+/home/alberto/proyectos/H9HeartRate2/.qt/qml_imports/H9HeartRate_conf.cmake
+-importPath
+/home/alberto/proyectos/H9HeartRate2
+-importPath
+/home/alberto/proyectos/H9HeartRate2/H9HeartRate
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/alberto/proyectos/H9HeartRate2/.qt/rcc/qmake_H9HeartRate.qrc
+/home/alberto/proyectos/H9HeartRate2/.qt/rcc/H9HeartRate_raw_qml_0.qrc

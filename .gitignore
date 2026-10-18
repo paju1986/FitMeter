@@ -1,0 +1,28 @@
+# Qt Creator / Build folders
+build/
+build_release/
+*.user
+*.cmake
+CMakeUsers.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Binaries and Objects
+*.o
+*.so
+*.a
+*.dll
+*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log

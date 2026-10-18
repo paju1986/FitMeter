@@ -1,0 +1,12 @@
+-I
+/home/alberto/proyectos/H9HeartRate2
+-I
+/home/alberto/proyectos/H9HeartRate2
+-I
+/usr/lib/qt6/qml
+--resource
+/home/alberto/proyectos/H9HeartRate2/.qt/rcc/qmake_H9HeartRate.qrc
+--resource
+/home/alberto/proyectos/H9HeartRate2/.qt/rcc/H9HeartRate_raw_qml_0.qrc
+--module
+H9HeartRate
